@@ -11,8 +11,8 @@
 
 ## Connect With Me
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abdelrahman-adel-126b91198/)
-[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/abdoadel791)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abdulrahman-adel-tawfiq)
+[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/abdulrhman__at)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Follow)](https://www.facebook.com/abdellrahman.adel/)
 [![Whatsapp URL](https://img.shields.io/static/v1?color=red&label=WhatsApp&logo=WhatsApp&logoColor=white&style=for-the-badge&message=Connect)](https://wa.me/201063162416)
 
