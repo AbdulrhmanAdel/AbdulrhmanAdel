@@ -25,7 +25,7 @@
 - :computer: I love learn new `Techs` and hates using any tech without knowing it's `Cons` and `Pros`.
 - :man_student: I’m currently diving deep in `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`
-- :thinking: Here is [MY RESUME](https://drive.google.com/file/d/1DEi0IqBFlA7OdEBxJIYxJgxrnSy3r_O_/view?usp=sharing).
+- :thinking: Here is [MY RESUME](https://drive.google.com/file/d/1aPLniG0eJCDsHAlUbGVhLH8AEtbvii1J/view).
 
 <br>
 
