@@ -8,10 +8,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-    <a href="https://www.linkedin.com/in/abdulrahman-adel-tawfiq"><img src="https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect" alt="LinkedIn Badge"></a>
-    <a href="https://twitter.com/abdulrhman__at"><img src="https://img.shields.io/static/v1?color=red&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow" alt="Twitter Badge"></a>
-    <a href="https://www.facebook.com/abdellrahman.adel/"><img src="https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Follow" alt="Facebook Badge"></a>
-    <a href="https://wa.me/201063162416"><img src="https://img.shields.io/static/v1?color=red&label=WhatsApp&logo=WhatsApp&logoColor=white&style=for-the-badge&message=Connect" alt="WhatsApp Badge"></a>
+    <a target="_black" href="https://www.linkedin.com/in/abdulrahman-adel-tawfiq"><img src="https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect" alt="LinkedIn Badge"></a>
+    <a target="_black" href="https://twitter.com/abdulrhman__at"><img src="https://img.shields.io/static/v1?color=red&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow" alt="Twitter Badge"></a>
+    <a target="_black" href="https://www.facebook.com/abdellrahman.adel/"><img src="https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Follow" alt="Facebook Badge"></a>
+    <a target="_black" href="https://wa.me/201063162416"><img src="https://img.shields.io/static/v1?color=red&label=WhatsApp&logo=WhatsApp&logoColor=white&style=for-the-badge&message=Connect" alt="WhatsApp Badge"></a>
 </p>
 
 ## 🚀 About Me
